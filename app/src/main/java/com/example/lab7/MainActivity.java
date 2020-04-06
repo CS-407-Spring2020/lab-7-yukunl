@@ -14,7 +14,7 @@ import android.widget.EditText;
 
 import static com.example.lab7.App.CHANNEL_1_ID;
 import static com.example.lab7.App.CHANNEL_2_ID;
-
+// finished milestone 1
 public class MainActivity extends AppCompatActivity {
 
     private NotificationManagerCompat notificationManager;
